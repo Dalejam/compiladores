@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjuntarArchivo", "AdjuntarArchivo\AdjuntarArchivo.csproj", "{2DFF07D7-A586-4947-8790-18530DA2BFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFF07D7-A586-4947-8790-18530DA2BFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFF07D7-A586-4947-8790-18530DA2BFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFF07D7-A586-4947-8790-18530DA2BFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFF07D7-A586-4947-8790-18530DA2BFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC288BD-F557-45BB-874B-E6F2282A90E0}
+	EndGlobalSection
+EndGlobal
